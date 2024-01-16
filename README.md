@@ -1,3 +1,4 @@
 # practice
 This is my first git repository
-Author - Rohit 
+<br>
+Author - Rohit Patidar
